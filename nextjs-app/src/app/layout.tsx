@@ -64,7 +64,7 @@ export default function RootLayout({
           <BackToTop />
           <footer className="mt-8 border-t border-white/10">
             <div className="max-w-6xl mx-auto px-4 py-6 text-sm text-white/70 flex flex-col sm:flex-row items-center justify-between gap-2">
-              <p>© 2024–{new Date().getFullYear()} <a className="underline hover:text-white" href="https://wwwhkbpperawang.org" target="_blank" rel="noopener noreferrer">HKBP Perawang</a>.</p>
+              <p>© 2024–{new Date().getFullYear()} <a className="underline hover:text-white" href="https://www.hkbpperawang.org" target="_blank" rel="noopener noreferrer">HKBP Perawang</a>.</p>
               <p>Dibuat oleh Tim Multimedia HKBP Perawang.</p>
             </div>
           </footer>
